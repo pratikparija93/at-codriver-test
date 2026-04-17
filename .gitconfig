@@ -1,0 +1,5 @@
+[user]
+  name = Gemini CLI
+  email = gemini-cli@google.com
+[commit]
+  gpgsign = false
